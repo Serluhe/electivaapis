@@ -2,6 +2,7 @@ primera linea de codigo
 Nombre: Sergio
 Apellidos:  Herrera Charrys
 Asignatura: Electiva Apis"" 
+Nueva Linea
  
  a r c h i v o . t x t  
  "archivo3.txt" 
